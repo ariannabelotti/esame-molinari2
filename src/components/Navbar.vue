@@ -1,10 +1,10 @@
 <template>
-    <nav class="flex items-center justify-between px-4 py-2 bg-white/70 backdrop-blur-2xl text-orange-500 m-8 rounded-3xl"> <!-- aggiunto la classe flex di tailwind -->
-        <div>
-           <source img src="../assets/logo.png" alt="Logo" /> <!-- logo -->
+    <nav class="flex items-center justify-between pt-3 pb-3 pl-6 pr-4 bg-white/70 backdrop-blur-2xl text-orange-500 rounded-3xl fixed top-6 left-30 right-30 w-auto"> <!-- aggiunto la classe flex di tailwind -->
+        <div class="h-10 w-auto">
+          <img src="../assets/LOGO_BP.svg" alt="Logo" class="h-full w-auto"/>
         </div>
-        <ul class="flex gap-6 text-gray-950 font-medium">
-            <li class="hover:text-amber-600"><router-link to="">Homepage</router-link></li>
+        <ul class="flex gap-6 text-gray-950 font-medium absolute left-1/2 -translate-x-1/2">
+            <li class="hover:text-amber-600"><router-link to="/">Homepage</router-link></li>
             <li class="hover:text-amber-600"><router-link to="/about">Chi siamo</router-link></li>
             <li class="hover:text-amber-600"><router-link to="/services">Servizi</router-link></li>
     
