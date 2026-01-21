@@ -77,7 +77,7 @@
   <section
     id="services"
     class="w-full px-6 md:px-14 lg:px-30 py-20 md:py-28 lg:py-40
-           flex flex-col items-center bg-gradient-to-b from-black to-stone-800 mt-14 md:mt-20"
+           flex flex-col items-center bg-gradient-to-b from-black to-stone-900 mt-14 md:mt-20"
   >
     <h3 class="text-3xl md:text-4xl font-extrabold text-white mb-12 md:mb-16 lg:mb-20">I nostri servizi</h3>
 
@@ -166,7 +166,7 @@
   </section>
 
   <footer class="">
-    <div class="w-full px-6 md:px-14 lg:px-30 py-8 flex justify-center bg-stone-800 text-white">
+    <div class="w-full px-6 md:px-14 lg:px-30 py-8 flex justify-center bg-stone-900 text-white">
       <p>©️ 2026 Belpress S.r.l. Tutti i diritti riservati.</p>
     </div>
   </footer>
