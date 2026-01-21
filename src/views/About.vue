@@ -104,7 +104,7 @@
 
           <div class="lg:col-span-5 lg:col-start-8">
             <div>
-              <img src="../assets/About2.jpg" alt="Immagine About Us 2"
+              <img :src="About2" alt="Immagine About Us 2"
                 class="w-full h-full object-cover rounded-2xl border-5 border-orange-500 opacity-90" />
             </div>
           </div>
@@ -153,6 +153,7 @@
 
 <script setup>
   import About1 from '../assets/About1.jpg';
+  import About2 from '../assets/About2.jpg';
 import sergioImg from '../assets/sergio.jpeg';
 import andreaImg from '../assets/andrea.JPG';
 import lucianaImg from '../assets/luciana.png';
