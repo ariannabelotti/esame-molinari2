@@ -14,5 +14,6 @@ export default defineConfig({
   ssr: {
     noExternal: ["@vue-leaflet/vue-leaflet"]
   },
-  base: '/esame-molinari2/',
+  base: '/',
 })
+
