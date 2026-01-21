@@ -32,7 +32,7 @@
         <!-- CARD 1 - IMMAGINE GRANDE -->
         <article
           class="md:col-span-2 relative group rounded-3xl overflow-hidden shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl">
-          <img src="../assets/services3.jpg" alt="Progettazione stampi"
+          <img src="../assets/Progettazione.jpg" alt="Progettazione stampi"
             class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
 
           <div
@@ -68,7 +68,7 @@
           class="bg-stone-300 rounded-3xl p-8 flex flex-col justify-between transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
           <div>
             <h3 class="text-xl font-bold text-stone-800 mb-3">
-              Campionature e prototipi
+              Controllo qualità e affidabilità
             </h3>
             <p class="text-gray-700 text-sm">
               Realizzazione di campioni funzionali per validazioni tecniche
@@ -82,7 +82,7 @@
           class="md:col-span-2 bg-stone-700 rounded-3xl p-10 text-white flex items-center justify-between gap-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl">
           <div>
             <h3 class="text-2xl font-bold mb-3">
-              Controllo qualità e affidabilità
+              Lavorazioni secondarie e finiture
             </h3>
             <p class="text-gray-200 text-sm max-w-lg">
               Ogni componente è sottoposto a controlli rigorosi per garantire
@@ -90,20 +90,20 @@
             </p>
           </div>
 
-          <img src="../assets/services1.jpg" alt="Controllo qualità"
+          <img src="../assets/Lavorazioni1.jpg" alt="Controllo qualità"
             class="w-32 h-32 object-cover rounded-full hidden md:block transition-transform duration-300 hover:scale-105" />
         </article>
         <!-- CARD 1 - IMMAGINE GRANDE -->
         <article
           class="md:col-span-2 relative group rounded-3xl overflow-hidden shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl">
-          <img src="../assets/services3.jpg" alt="Progettazione stampi"
+          <img src="../assets/Imballaggio.jpg" alt="Imballaggi personalizzati"
             class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
 
           <div
             class="absolute inset-0 bg-black/40 transition-colors duration-300 group-hover:bg-black/55 flex items-end p-8">
             <div>
               <h3 class="text-white text-2xl font-bold mb-2">
-                Progettazione e realizzazione stampi
+                Imballaggi personalizzati
               </h3>
               <p class="text-gray-200 text-sm max-w-md">
                 Studio tecnico, progettazione CAD e costruzione di stampi
@@ -154,7 +154,7 @@
             </p>
           </div>
 
-          <img src="../assets/services1.jpg" alt="Controllo qualità"
+          <img src="../assets/Imballaggio.jpg" alt="Controllo qualità"
             class="w-32 h-32 object-cover rounded-full hidden md:block transition-transform duration-300 hover:scale-105" />
         </article>
 
