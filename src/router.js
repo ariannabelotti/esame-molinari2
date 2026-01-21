@@ -4,7 +4,7 @@
 // vue-router è una libreria che permette di gestire la navigazione tra le pagine
 
 import { createWebHistory, createRouter } from 'vue-router'
-import Home from './views/home.vue'
+import Home from './views/Home.vue'
 import About from './views/About.vue'
 import Services from './views/Services.vue'
 import Contact from './views/Contact.vue'
