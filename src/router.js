@@ -8,8 +8,7 @@ import Home from './views/home.vue'
 import About from './views/About.vue'
 import Services from './views/Services.vue'
 import Contact from './views/Contact.vue'
-
-
+import "leaflet/dist/leaflet.css";
 
 const routes = [
   {

@@ -5,29 +5,29 @@ import aboutUsPeopleIMG3 from './img/nomefoto.png'
 
 export const aboutUs = { 
   title: "Chi Siamo",
-  content: "Belpress Srl è una realtà con radici profonde, nata dalla passione per la fonderia e dai valori della famiglia, con una storia che si è evoluta di generazione in generazione. Dal primo avvio negli anni ’90, operiamo con costanza e dedizione nel cuore della affascinante Franciacorta, impegnandoci da oltre trent’anni nell’eccellenza della metallurgia. Siamo una media impresa famigliare specializzata nello stampaggio di alluminio e leghe non ferrose come zama e ottone mediante il processo di pressofusione. Grazie alla nostra competenza tecnica e alla cura artigianale del dettaglio, offriamo ai clienti una fornitura completa: dalla progettazione e costruzione di stampi su misura, alle campionature, fino alla consegna finale di prodotti conformi alle specifiche richieste. Affidarsi a Belpress significa scegliere persone competenti, precise e appassionate, pronte a trasformare idee e progetti in soluzioni concrete e di qualità."
+  content: "Belpress Srl è un’impresa familiare con oltre trent’anni di esperienza nella metallurgia, nata negli anni ’90 in Franciacorta. Specializzata nella pressofusione di alluminio e leghe non ferrose (zama e ottone), offre un servizio completo: progettazione e realizzazione di stampi su misura, campionature e produzione di pezzi finiti conformi alle specifiche. L’azienda unisce competenza tecnica e cura artigianale per trasformare progetti in soluzioni di qualità."
 };
 
 export const aboutUsPeople = [
   {
     id: 1,
-    name: "Mario Rossi",
+    name: "Sergio Belotti",
     role: "CEO",
-    bio: "Mario ha 25 anni di esperienza nel settore della metallurgia.",
+    bio: "Sergio ha 25 anni di esperienza nel settore della metallurgia.",
     //image: aboutUsPeopleIMG1,
   },
   {
     id: 2,
-    name: "Luigi Bianchi",
+    name: "Andrea Belotti",
     role: "CTO",
     bio: "Luigi ha 20 anni di esperienza nel settore della metallurgia.",
    // image: aboutUsPeopleIMG2,
   },
   {
     id: 3,
-    name: "Giovanni Verdi",
+    name: "Luciana Belotti",
     role: "CFO",
-    bio: "Giovanni ha 15 anni di esperienza nel settore della metallurgia.",
+    bio: "Luciana ha 15 anni di esperienza nel settore della metallurgia.",
     //image: aboutUsPeopleIMG3,
   }
 ];

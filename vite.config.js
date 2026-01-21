@@ -8,4 +8,10 @@ export default defineConfig({
     vue(),
     tailwindcss(),
   ],
+  optimizeDeps: {
+    exclude: ["@vue-leaflet/vue-leaflet"]
+  },
+  ssr: {
+    noExternal: ["@vue-leaflet/vue-leaflet"]
+  }
 })
