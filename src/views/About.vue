@@ -83,7 +83,7 @@
         <!---->
 
         <div class="w-full h-60 rounded-2xl mb-24">
-          <img src="../assets/About1.jpg" alt="Immagine About Us"
+          <img :src="About1" alt="Immagine About Us"
             class="w-full h-full object-cover rounded-2xl opacity-80" />
         </div>
 
@@ -152,6 +152,7 @@
 
 
 <script setup>
+  import About1 from '../assets/About1.jpg';
 import sergioImg from '../assets/sergio.jpeg';
 import andreaImg from '../assets/andrea.JPG';
 import lucianaImg from '../assets/luciana.png';
